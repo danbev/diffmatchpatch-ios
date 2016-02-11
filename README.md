@@ -24,10 +24,10 @@ You can also run test from the command:
     xcodebuild -scheme DiffMatchPatch -destination 'platform=iOS Simulator,name=iPhone 5s' test
 
 
-## Cocoapods
+## CocoaPods
 This project can be made into a [Cocoapod](http://www.cocoapods.org/):
 
-First install the Cocoapods gem by running:
+First install the CocoaPods gem by running:
 
     sudo gem install cocoapods --pre
 
